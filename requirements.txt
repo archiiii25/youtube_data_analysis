@@ -1,0 +1,6 @@
+
+phidata
+streamlit
+youtube_transcript_api
+pytube
+openai==0.28
